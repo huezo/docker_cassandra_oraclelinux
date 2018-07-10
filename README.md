@@ -9,7 +9,7 @@
 
 ## run cassandra-oraclelinux 7.x
 
-docker run -d --name cassandra-orclinux -p 7000:7000 -p 7001:7001 -p 7199:7199 -p 9042:9042  -p 9160:9160 huezohuezo1990/cassandra-oraclelinux
+```docker run -d --name cassandra-orclinux -p 7000:7000 -p 7001:7001 -p 7199:7199 -p 9042:9042  -p 9160:9160 huezohuezo1990/cassandra-oraclelinux```
 
 
 ## cassandra-oraclelinux 7.4
@@ -19,6 +19,7 @@ docker run -d --name cassandra-orclinux -p 7000:7000 -p 7001:7001 -p 7199:7199 -
 
 ## run cassandra-oraclelinux 7.4
 
-docker run -d --name cassandra-orclinux-74 -p 7000:7000 -p 7001:7001 -p 7199:7199 -p 9042:9042  -p 9160:9160 huezohuezo1990/cassandra-oraclelinux:7.4
+```docker run -d --name cassandra-orclinux-74 -p 7000:7000 -p 7001:7001 -p 7199:7199 -p 9042:9042  -p 9160:9160 huezohuezo1990/cassandra-oraclelinux:7.4```
+
 
 
