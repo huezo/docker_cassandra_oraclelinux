@@ -1,7 +1,7 @@
 #  Cassandra Datastax
 
 # Oracle Linux
-FROM oraclelinux:7
+FROM oraclelinux:8
 
 MAINTAINER huezohuezo1990 <>
 
